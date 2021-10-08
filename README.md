@@ -12,3 +12,5 @@ I currently enhancing my programming skills.
 Singhal861/Singhal861 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# KPMG Data Analytic Certificate
+[KPMG Data Analytics Certificate.pdf](https://github.com/Singhal861/Singhal861/files/7312554/KPMG.Data.Analytics.Certificate.pdf)

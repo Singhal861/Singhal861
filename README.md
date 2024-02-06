@@ -2,7 +2,8 @@
 Eager to explore & learn Python related technology
 It's been almost 2 yr with organisation & I'm glad to be in current organisation.
 I completed my B.tech in 2021 F.O.E.T, Lucknow University, Lucknow-226021.
-I currently enhancing my programming skills.
+I currently enhancing my programming skills and quite busy with my organisation work.
+
 
 - 👋 Hi, I’m @Singhal861
 - 👀 I’m interested in Python programming

@@ -1,5 +1,7 @@
 ### Hey Everyone, I'm Abhishek Singhal
-I completed my B.tech in 2021 with Mechanical Engineering from F.O.E.T, Lucknow University, Lucknow-226021.
+Eager to explore & learn Python related technology
+It's been almost 2 yr with organisation & I'm glad to be in current organisation.
+I completed my B.tech in 2021 F.O.E.T, Lucknow University, Lucknow-226021.
 I currently enhancing my programming skills.
 
 - 👋 Hi, I’m @Singhal861
